@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker Pro",
+  "description": "An interactive web application for personal purchasing and expense tracking. It allows adding, editing, deleting, and filtering purchase records, viewing an activity log, and exporting data to PDF, all powered by a sleek and responsive UI.",
+  "requestFramePermissions": []
+}
